@@ -39,4 +39,5 @@ android {
 
 dependencies {
     embed 'com.bokecc:commonLib:1.2.5'
+    embed 'com.bokecc.gson:gson:2.9.0'
 }
